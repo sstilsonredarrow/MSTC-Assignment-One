@@ -15,7 +15,7 @@ namespace Assignment1Core
 
         protected override Task NavigateToFirstViewModel(object hint = null)
         {
-            return NavigationService.Navigate<TestViewModel>();
+            return NavigationService.Navigate<MainViewModel>();
         }
     }
 }

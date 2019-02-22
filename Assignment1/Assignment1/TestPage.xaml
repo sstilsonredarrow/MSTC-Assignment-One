@@ -4,7 +4,7 @@
              x:Class="Assignment1.TestPage">
     <ContentPage.Content>
         <StackLayout Orientation="Vertical">
-            <Label Text="{Binding TestText}" />
+            <Label Text="{Binding TestText}" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </views:MvxContentPage>
