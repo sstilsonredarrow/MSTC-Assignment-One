@@ -9,5 +9,13 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewModels\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Services\CacheService.cs" />
+    <Compile Remove="Services\ICacheService.cs" />
+    <Compile Remove="Services\ICacheService.cs" />
+    <Compile Remove="Services\CacheService.cs" />
   </ItemGroup>
 </Project>

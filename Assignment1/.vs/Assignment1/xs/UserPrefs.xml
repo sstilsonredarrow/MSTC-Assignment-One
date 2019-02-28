@@ -1,21 +1,29 @@
 ﻿<Properties StartupConfiguration="{E8EB527C-FF2B-4FEE-94B7-E90B96902A58}|Default">
-  <MonoDevelop.Ide.ItemProperties.Assignment1.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment1Core/App.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment1Core/ViewModels/MainViewModel.cs">
     <Files>
-      <File FileName="Assignment1/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Assignment1/MainPage.xaml" Line="7" Column="15" />
-      <File FileName="Assignment1Core/App.cs" Line="16" Column="1" />
+      <File FileName="Assignment1/MainPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="Assignment1/MainPage.xaml" Line="17" Column="86" />
+      <File FileName="Assignment1Core/App.cs" Line="12" Column="1" />
       <File FileName="Assignment1.Android/RootActivity.cs" Line="7" Column="22" />
-      <File FileName="Assignment1/TestPage.xaml" Line="9" Column="27" />
-      <File FileName="Assignment1/TestPage.xaml.cs" Line="11" Column="10" />
-      <File FileName="Assignment1Core/AppStart.cs" Line="9" Column="40" />
+      <File FileName="Assignment1/TestPage.xaml" Line="17" Column="54" />
+      <File FileName="Assignment1/TestPage.xaml.cs" Line="13" Column="10" />
+      <File FileName="Assignment1Core/AppStart.cs" Line="17" Column="1" />
+      <File FileName="Assignment1Core/ViewModels/TestViewModel.cs" Line="13" Column="1" />
+      <File FileName="Assignment1Core/ViewModels/MainViewModel.cs" Line="31" Column="19" />
+      <File FileName="Assignment1Core/Models/DreamDestinationItem.cs" Line="8" Column="9" />
+      <File FileName="Assignment1Core/Services/IDreamDestinationService.cs" Line="10" Column="65" />
+      <File FileName="Assignment1Core/Services/DreamDestinationService.cs" Line="16" Column="53" />
+      <File FileName="Assignment1/App.xaml.cs" Line="15" Column="10" />
+      <File FileName="Assignment1/App.xaml" Line="5" Column="15" />
+      <File FileName="Assignment1.iOS/AppDelegate.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Assignment1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0F92CE72-488E-45C3-83A9-929D3FDACBAD" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assignment1.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.12E962AF-AF8F-4BF3-8105-7BC99C10A836" />
   <MultiItemStartupConfigurations />
 </Properties>
