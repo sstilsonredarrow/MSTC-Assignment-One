@@ -1,0 +1,9 @@
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/bin/Debug/netstandard2.0/Assignment1Core.deps.json
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/bin/Debug/netstandard2.0/Assignment1Core.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/bin/Debug/netstandard2.0/Assignment1Core.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/obj/Debug/netstandard2.0/Assignment1Core.csprojAssemblyReference.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/obj/Debug/netstandard2.0/Assignment1Core.csproj.CoreCompileInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/obj/Debug/netstandard2.0/Assignment1Core.AssemblyInfoInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/obj/Debug/netstandard2.0/Assignment1Core.AssemblyInfo.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/obj/Debug/netstandard2.0/Assignment1Core.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1Core/obj/Debug/netstandard2.0/Assignment1Core.pdb
