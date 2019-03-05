@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<views:MvxContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+                      xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+                      xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvxCross.Forms"
+                      x:Class="Assignment1.ListPage">
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding ListItems}" BackgroundColor="Blue" RowHeight="55" SeparatorColor="White">
+           <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout Orientation="Vertical" Padding="0,0,0,0">
+                                <Label Text="{Binding ItemName}" TextColor="White" HorizontalOptions="StartAndExpand" FontSize="14" VerticalOptions="End" HeightRequest="18"/>
+                                <Label Text="{Binding ItemDescription}" TextColor="Silver" FontSize="10" HorizontalOptions="StartAndExpand" VerticalOptions="Start" HeightRequest="14"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</views:MvxContentPage>

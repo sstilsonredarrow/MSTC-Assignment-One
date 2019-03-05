@@ -1,5 +1,7 @@
 ﻿using System;
+using Assignment1Core.Services;
 using Assignment1Core.ViewModels;
+using MvvmCross;
 using MvvmCross.ViewModels;
 
 namespace Assignment1Core
@@ -10,6 +12,7 @@ namespace Assignment1Core
         {
             base.Initialize();
             RegisterCustomAppStart<AppStart>();
+            Mvx.IoCProvider.RegisterType<IListPageService, ListPageService>();
         }
     }
 }
