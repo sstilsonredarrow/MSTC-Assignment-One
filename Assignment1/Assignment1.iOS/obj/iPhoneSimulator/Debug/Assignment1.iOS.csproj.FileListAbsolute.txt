@@ -1,0 +1,252 @@
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csprojAssemblyReference.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CoreCompileInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CopyComplete
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csprojAssemblyReference.cache
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CoreCompileInputs.cache
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CopyComplete
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csprojAssemblyReference.cache
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CoreCompileInputs.cache
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CopyComplete
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.iOS.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Forms.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/bin/iPhoneSimulator/Debug/Assignment1Core.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csprojAssemblyReference.cache
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CoreCompileInputs.cache
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.csproj.CopyComplete
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.exe
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1.iOS/obj/iPhoneSimulator/Debug/Assignment1.iOS.pdb

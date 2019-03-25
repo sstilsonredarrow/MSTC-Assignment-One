@@ -1,5 +1,7 @@
 ﻿using System;
+using Assignment1Core.Services;
 using Assignment1Core.ViewModels;
+using MvvmCross;
 using MvvmCross.ViewModels;
 
 namespace Assignment1Core
@@ -9,7 +11,9 @@ namespace Assignment1Core
         public override void Initialize()
         {
             base.Initialize();
+            Mvx.IoCProvider.RegisterType<IListService, ListService>();
             RegisterCustomAppStart<AppStart>();
         }
     }
 }
+ 

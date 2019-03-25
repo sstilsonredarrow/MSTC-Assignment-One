@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<views:MvxContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Asssignment1" 
+             xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+             x:Class="Assignment1.ListPage">
+    <ContentPage.Content>
+        <ListView x:Name="listView" RowHeight="65" ItemsSource="{Binding Foods}" BackgroundColor="Maroon">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Name}" TextColor="White" HorizontalOptions="StartAndExpand" FontSize="24" VerticalOptions="End" />
+                            <Label Text="{Binding Description}" TextColor="White" HorizontalOptions="StartAndExpand" FontSize="10" VerticalOptions="Start" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</views:MvxContentPage>

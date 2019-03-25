@@ -1,0 +1,53 @@
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csprojAssemblyReference.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/ListPage.xaml.g.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/TestPage.xaml.g.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfoInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfo.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.deps.json
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.deps.json
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.pdb
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csprojAssemblyReference.cache
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/ListPage.xaml.g.cs
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfoInputs.cache
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfo.cs
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.dll
+/Users/NFlaig/Downloads/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.deps.json
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.pdb
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csprojAssemblyReference.cache
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/ListPage.xaml.g.cs
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfoInputs.cache
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfo.cs
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.dll
+/Users/NFlaig/Desktop/MSTC-Assignment-One-jwhite_AssignmentOne 2/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.deps.json
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/bin/Debug/netstandard2.0/Assignment1.pdb
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csprojAssemblyReference.cache
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/ListPage.xaml.g.cs
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfoInputs.cache
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.AssemblyInfo.cs
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.dll
+/Users/NFlaig/Documents/source/repos/AssignmentOne/MSTC-Assignment-One/Assignment1/Assignment1/obj/Debug/netstandard2.0/Assignment1.pdb
